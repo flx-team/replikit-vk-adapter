@@ -4,7 +4,9 @@
 [![MIT License](https://img.shields.io/static/v1?label=&message=MIT&color=%23512bd4&style=for-the-badge)](License.md)
 [![Nullable](https://img.shields.io/static/v1?label=&message=Nullable&color=%23512bd4&style=for-the-badge)](https://www.dotnetcurry.com/csharp/nullable-reference-types-csharp)
 
-[![NuGet](Assets/PackageIcon64.png)](https://www.nuget.org/packages/Replikit.Adapters.FlxTeam.VKontakte)
+<a href="https://www.nuget.org/packages/Replikit.Adapters.FlxTeam.VKontakte">
+  <img src="Assets/PackageIcon128.png" alt="NuGet" width="70" />
+</a>
   
 # VKontakte Adapter
 
