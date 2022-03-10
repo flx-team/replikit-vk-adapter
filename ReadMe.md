@@ -115,26 +115,26 @@ Legend:
 | Feature \ Api          | User | Group |
 |------------------------|------|-------|
 | **MessageService**     |      |       |
-| `Send`                 | +    | +     |
-| `Edit`                 | ?    | ?     |
-| `Delete`               | ?    | ?     |
-| `DeleteMany`           | ?    | ?     |
-| `Get`                  | ?    | ?     |
-| `GetMany`              | ?    | ?     |
-| `Find`                 | ?    | ?     |
-| `Pin`                  | ?    | ?     |
-| `Unpin`                | ?    | ?     |
+| _Send_                 | +    | +     |
+| _Edit_                 | ?    | ?     |
+| _Delete_               | ?    | ?     |
+| _DeleteMany_           | ?    | ?     |
+| _Get_                  | ?    | ?     |
+| _GetMany_              | ?    | ?     |
+| _Find_                 | ?    | ?     |
+| _Pin_                  | ?    | ?     |
+| _Unpin_                | ?    | ?     |
 | **MemberService**      |      |       |
-| `GetMany`              | ?    | ~     |
-| `ListMany`             | ?    | ~     |
-| `Add`                  | ?    | ?     |
-| `Remove`               | ?    | ?     |
-| `Ban`                  | ?    | ?     |
-| `Unban`                | ?    | ?     |
+| _GetMany_              | ?    | ~     |
+| _ListMany_             | ?    | ~     |
+| _Add_                  | ?    | ?     |
+| _Remove_               | ?    | ?     |
+| _Ban_                  | ?    | ?     |
+| _Unban_                | ?    | ?     |
 | **Repository**         |      |       |
-| `GetAccountInfo`       | +    | +     |
-| `GetChannelInfo`       | +    | +     |
-| `ResolveAttachmentUrl` | ?    | ?     |
+| _GetAccountInfo_       | +    | +     |
+| _GetChannelInfo_       | +    | +     |
+| _ResolveAttachmentUrl_ | ?    | ?     |
 | **TextTokenizer**      | ~    | ~     |
 | **TextFormatter**      | ~    | ~     |
 | **EventSource**        | +    | +     |
